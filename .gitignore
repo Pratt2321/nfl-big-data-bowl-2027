@@ -1,0 +1,17 @@
+# Python / Virtual Environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# NFL BDB 2027 Competition Datasets
+*.csv
+*.parquet
+*.zip
+data/
+
+# VS Code / OS Artifacts
+.DS_Store
+.vscode/
